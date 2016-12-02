@@ -14,7 +14,7 @@ const Main = props => (
 );
 
 Main.propTypes = {
-  children: React.PropTypes.Object,
+  children: React.PropTypes.object,
 };
 
 export default Main;
